@@ -2,8 +2,6 @@
 
 ### 🚀 Lead Full Stack Engineer | AWS Certified | Microservices & Cloud Enthusiast
 
-I'm a passionate and experienced Full Stack Developer currently working at **Morgan Stanley**, where I lead end-to-end development of enterprise-grade financial applications. With a strong background in Java, Spring, Angular, ReactJS, and AWS, I specialize in building scalable microservices and cloud-native architectures that deliver performance, reliability, and business value.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -42,12 +40,12 @@ I'm a passionate and experienced Full Stack Developer currently working at **Mor
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=selvester69&show_icons=true&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=selvester69&show_icons=true&theme=transparent" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvester69&theme=dark" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvester69&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvester69&layout=compact&theme=transparent" />
 </p>
 
 ---
@@ -60,13 +58,21 @@ I'm a passionate and experienced Full Stack Developer currently working at **Mor
 
 ---
 
-## 📅 GitHub Contribution Graph
+<!-- ## 📅 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=selvester69&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=selvester69&theme=github-dark" />
+</p> -->
+---
+
+## 📅 GitHub Contribution & Commit Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=selvester69&theme=github-compact" />
 </p>
 
 ---
+
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhijeetS93/)
@@ -74,4 +80,4 @@ I'm a passionate and experienced Full Stack Developer currently working at **Mor
 
 ---
 
-_“Simplicity is the soul of efficiency.” – Austin Freeman_
+<p align="center"><i>“Simplicity is the soul of efficiency.” – Austin Freeman</i></p>
