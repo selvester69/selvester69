@@ -58,7 +58,8 @@
 
 ---
 
-<!-- ## 📅 GitHub Contribution Graph
+<!-- commented
+## 📅 GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=selvester69&theme=github-dark" />
@@ -80,9 +81,14 @@
 
 ---
 
-## 📌 Recent GitHub Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
+<!-- commented
+### 🛠 Recent Projects
+- 🔹 **[Project One](https://github.com/your-username/project-one)** – Real-time stock monitoring dashboard using React & WebSockets
+- 🔹 **[Project Two](https://github.com/your-username/project-two)** – Serverless REST API on AWS using Lambda & DynamoDB
+- 🔹 **[Project Three](https://github.com/your-username/project-three)** – Kubernetes-deployed Spring Boot microservices
+
+--- -->
 
 <p align="center"><i>“Simplicity is the soul of efficiency.” – Austin Freeman</i></p>
