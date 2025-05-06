@@ -80,4 +80,9 @@
 
 ---
 
+## 📌 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <p align="center"><i>“Simplicity is the soul of efficiency.” – Austin Freeman</i></p>
