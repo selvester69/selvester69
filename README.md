@@ -39,15 +39,34 @@ I'm a passionate and experienced Full Stack Developer currently working at **Mor
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijeetS93&show_icons=true&theme=dark" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetS93&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=selvester69&show_icons=true&theme=dark" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvester69&theme=dark" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvester69&layout=compact&theme=dark" />
 </p>
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=selvester69&theme=darkhub&no-frame=true&row=1&margin-w=10" />
+</p>
+
+---
+
+## 📅 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=selvester69&theme=github-dark" />
+</p>
+
+---
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhijeetS93/)
