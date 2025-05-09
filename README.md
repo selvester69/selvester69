@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhijeet Srivastava
 
-### 🚀 Lead Full Stack Engineer | AWS Certified | Microservices & Cloud Enthusiast
+### 🚀 Lead Full Stack Engineer | AWS Certified | Microservices & Cloud Enthusiast | React | Java
 
 ---
 
