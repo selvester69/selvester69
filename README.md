@@ -16,8 +16,10 @@
 
 ---
 
-#Demo Projects
-https://selvester69.github.io/order-tracking-dashboard/dashboard
+## 🛠️ Demo Projects 
+
+**🔹[Order Tracking](https://selvester69.github.io/order-tracking-dashboard/dashboard)**
+
 
 ---
 
@@ -40,6 +42,9 @@ https://selvester69.github.io/order-tracking-dashboard/dashboard
 - Led modernization of legacy systems into microservices using Java, Spring, Angular.
 - Built high-volume batch systems using multi-threaded Java and AutoSys scheduling.
 
+**🔹 Java Trainee @ Jspiders**  
+- building capstone projects such as Bank Atm, Parking lot etc.
+- Integrated above projects with database using jdbc api.
 ---
 
 ## 📊 GitHub Stats
