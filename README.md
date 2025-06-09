@@ -16,6 +16,11 @@
 
 ---
 
+#Demo Projects
+https://selvester69.github.io/order-tracking-dashboard/dashboard
+
+---
+
 ## 👨‍💻 Professional Experience
 
 **🔹 Morgan Stanley (E*Trade)**  
@@ -56,14 +61,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=selvester69&theme=darkhub&no-frame=true&row=1&margin-w=10" />
 </p>
 
----
-
-<!-- commented
-## 📅 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=selvester69&theme=github-dark" />
-</p> -->
 ---
 
 ## 📅 GitHub Contribution & Commit Graph
