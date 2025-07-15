@@ -22,7 +22,7 @@
 
 **🔹[Order Tracking](https://selvester69.github.io/order-tracking-dashboard/dashboard)**
 
-
+[![selvester69 Daily Commit](https://github.com/selvester69/my-history/actions/workflows/main.yml/badge.svg)](https://github.com/selvester69/my-history/actions/workflows/main.yml)
 ---
 
 ## 👨‍💻 Professional Experience
