@@ -4,6 +4,19 @@
 
 ---
 
+## Summary
+
+### Full-Stack Leadership
+I've led major projects, including a large-scale AngularJS to ReactJS migration and the implementation of a complex regulatory feature (SEC 10b51). My expertise extends to building and modernizing distributed, scalable systems, a core focus in my leadership roles. I also engineered reusable Angular UI components to improve development efficiency and streamlined developer onboarding with automation.
+
+### Cloud & Performance
+I have extensive experience in modern cloud architecture, having designed and deployed a scalable microservices application on AWS using a serverless approach. My focus on performance led to a notable 15% reduction in frontend load times through strategic code optimization.
+
+### System Modernization
+I have a proven track record of modernizing legacy systems, including a key project to migrate a critical legacy application to a microservices architecture. I also developed a high-performance, multithreaded Java application capable of processing millions of financial transactions.
+
+
+
 ## 🛠️ Tech Stack
 
 **Languages & Core:** Java 11+, JavaScript (ES6+), TypeScript, SQL, Shell Scripting  
